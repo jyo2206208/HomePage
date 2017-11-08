@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HomPageViewController.h
 //  HomePage-Demo
 //
 //  Created by farfetch on 2017/11/8.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HomPageViewController : UIViewController
 
 @end
-
