@@ -16,6 +16,7 @@
 		1D44E8621FB2C1060086B576 /* HomPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D44E8601FB2C1060086B576 /* HomPageViewController.m */; };
 		1D44E8631FB2C1060086B576 /* HomPageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1D44E8611FB2C1060086B576 /* HomPageViewController.xib */; };
 		1D44E8671FB2D2C50086B576 /* HomePage.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 1D44E8661FB2D2C50086B576 /* HomePage.podspec */; };
+		1D44E8691FB2D7460086B576 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 1D44E8681FB2D7460086B576 /* LICENSE */; };
 		42790D417893C1AAE1129E2E /* libPods-HomePage-DemoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D60EB6B1E99DF3D4EAE84CB3 /* libPods-HomePage-DemoTests.a */; };
 		5F999148625425D514A74F1B /* libPods-HomePage-Demo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A36BC347ACD9FD2E68CDAD0D /* libPods-HomePage-Demo.a */; };
 /* End PBXBuildFile section */
@@ -54,6 +55,7 @@
 		1D44E8601FB2C1060086B576 /* HomPageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomPageViewController.m; sourceTree = "<group>"; };
 		1D44E8611FB2C1060086B576 /* HomPageViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomPageViewController.xib; sourceTree = "<group>"; };
 		1D44E8661FB2D2C50086B576 /* HomePage.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HomePage.podspec; sourceTree = "<group>"; };
+		1D44E8681FB2D7460086B576 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		622A9796FF91D1E5B8117F42 /* Pods-HomePage-DemoUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HomePage-DemoUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HomePage-DemoUITests/Pods-HomePage-DemoUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		8E2B64F20090F6AE674EC63A /* Pods-HomePage-DemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HomePage-DemoTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HomePage-DemoTests/Pods-HomePage-DemoTests.release.xcconfig"; sourceTree = "<group>"; };
 		A36BC347ACD9FD2E68CDAD0D /* libPods-HomePage-Demo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HomePage-Demo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -96,6 +98,7 @@
 		1D44E81E1FB2BFCF0086B576 = {
 			isa = PBXGroup;
 			children = (
+				1D44E8681FB2D7460086B576 /* LICENSE */,
 				1D44E8661FB2D2C50086B576 /* HomePage.podspec */,
 				1D44E85E1FB2C09D0086B576 /* HomePage */,
 				1D44E8291FB2BFCF0086B576 /* HomePage-Demo */,
@@ -297,6 +300,7 @@
 			files = (
 				1D44E8341FB2BFCF0086B576 /* Assets.xcassets in Resources */,
 				1D44E8671FB2D2C50086B576 /* HomePage.podspec in Resources */,
+				1D44E8691FB2D7460086B576 /* LICENSE in Resources */,
 				1D44E8631FB2C1060086B576 /* HomPageViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
