@@ -19,6 +19,7 @@
     NSLog(@"HomePage被打开啦");
     NSLog(@"第一次修改的新功能");
     NSLog(@"新补丁");
+    NSLog(@"我的第二次功能呢");
     // Do any additional setup after loading the view from its nib.
 }
 
