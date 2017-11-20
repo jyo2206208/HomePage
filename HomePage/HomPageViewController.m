@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"HomePage被打开啦");
+    NSLog(@"第一次修改的新功能");
     // Do any additional setup after loading the view from its nib.
 }
 
