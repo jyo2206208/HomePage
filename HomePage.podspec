@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "HomePage"
-s.version      = "0.0.3"
+s.version      = "0.0.5"
 s.summary      = "HomePage"
 s.description  = <<-DESC
 HomePage module
